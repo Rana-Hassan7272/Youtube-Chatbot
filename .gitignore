@@ -1,6 +1,7 @@
 # Virtual environments
 env/
 venv/
+notebook/
 
 # Python cache
 __pycache__/
